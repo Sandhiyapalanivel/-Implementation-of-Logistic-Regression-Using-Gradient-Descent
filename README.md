@@ -92,21 +92,22 @@ print(y_prednew)
 ```
 
 ## Output:
+```
 print('Accuracy:',accuracy)
-
+```
 ![image](https://github.com/user-attachments/assets/645be245-5ea1-4d62-b623-669d594f46fe)
-
+```
 print(y_pred)
-
+```
 ![image](https://github.com/user-attachments/assets/f567e4d9-e839-440f-81a4-2628cda134c7)
-
+```
 print(y_prednew)
-
+```
 ![Screenshot 2024-09-06 114345](https://github.com/user-attachments/assets/7c557095-2e55-47f6-9dec-08eec65b6245)
 
-
+```
 print(y_prednew)
-
+```
 ![Screenshot 2024-09-06 114349](https://github.com/user-attachments/assets/070ccd1c-2b00-47e6-9210-492ac012a6f4)
 
 
